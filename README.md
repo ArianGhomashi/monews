@@ -1,16 +1,2 @@
-# monews
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="540" alt="monews_post_1" src="https://user-images.githubusercontent.com/110735726/195545392-a058e6b2-ceb6-412c-9dce-86d67c221312.png">
+<img width="540" alt="monews_post_2" src="https://user-images.githubusercontent.com/110735726/195545432-94b54731-1079-4f68-a568-f11e320a9a15.png">
