@@ -77,6 +77,11 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
               SliverToBoxAdapter(
                 child: _getSuggestedTagsPart(),
               ),
+              SliverToBoxAdapter(
+                child: SizedBox(
+                  height: 40,
+                ),
+              ),
             ],
           ),
           Container(
@@ -215,7 +220,7 @@ class _DiscoverScreenState extends State<DiscoverScreen> {
   Widget _getCoverList() {
     return Container(
       height: 180,
-      child: ListView.builder(
+      child: PageView.builder(
         reverse: true,
         scrollDirection: Axis.horizontal,
         itemCount: coverList().length,

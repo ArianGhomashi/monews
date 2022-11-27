@@ -65,7 +65,7 @@ List<Media> mediaList() {
 List<Widget> coverList() {
   return [
     Container(
-      margin: EdgeInsets.symmetric(horizontal: 24),
+      margin: EdgeInsets.symmetric(horizontal: 15),
       height: 180,
       width: 350,
       decoration: BoxDecoration(
@@ -140,7 +140,7 @@ List<Widget> coverList() {
       ),
     ),
     Container(
-      margin: EdgeInsets.symmetric(horizontal: 24),
+      margin: EdgeInsets.symmetric(horizontal: 15),
       height: 180,
       width: 350,
       decoration: BoxDecoration(
